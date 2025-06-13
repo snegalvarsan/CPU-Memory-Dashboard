@@ -32,7 +32,7 @@ Built with **Python**, **Dash (Plotly)**, and **Flask** — this is a lightweigh
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/snegalvarsan/CPU-Memory-Dashboard.git
-cd cpu-memory-dashboard
+cd CPU-Memory-Dashboard
 sudo snap install docker -y
 sudo docker compose up -d
 ```
