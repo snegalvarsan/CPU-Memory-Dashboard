@@ -1,0 +1,48 @@
+body {
+    background-color: #1e1e2f;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: #f0f0f0;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.card {
+    background-color: #2a2a3d;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.btn {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 14px;
+    color: white;
+    background-color: #0066cc;
+    text-decoration: none;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+.btn:hover {
+    background-color: #004c99;
+}
+
+label, span {
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#stats-summary p {
+    margin: 6px 0;
+    font-size: 15px;
+}
